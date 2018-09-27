@@ -1,5 +1,3 @@
-
-
 #!/bin/bash
 # Author: José Manuel Motto
 # rebuild using another watchdog scripts found on the internet (thanks!!)
